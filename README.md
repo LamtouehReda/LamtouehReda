@@ -9,9 +9,12 @@
 
 **`Artificial Intelligence Student`**
 
-Welcome to my portfolio! I am thrilled to present my journey as an AI enthusiast and dedicated computer scientist. Armed with a Bachelor's degree in Computer Science, my passion for innovation and technology has led me to delve into the dynamic world of Artificial Intelligence. With a strong foundation in web and app development, I've honed my skills to create seamless digital experiences while embarking on a fascinating exploration of AI's limitless possibilities.
+Greetings! I'm an AI aficionado with a Computer Science degree and a knack for web and app development. This portfolio is a glimpse into my AI-driven odyssey and my flair for crafting digital experiences. From dynamic web designs to intuitive apps, I blend creativity with functionality.
 
-In this portfolio, I invite you to witness the synergy of my academic pursuits and hands-on experience. From crafting responsive web designs to architecting intuitive mobile applications, I have consistently sought opportunities to blend creativity with functionality. My journey in AI has further enriched my perspective, as I embrace the challenges of training models, analyzing data, and translating algorithms into real-world solutions.
+### 👦 About Me
+- 👨‍💻 I'm CS graduate
+
+- 🔭 I’m currently learning Machine Learning, Deep Learning and Data Science
 
 ---
 
@@ -30,6 +33,8 @@ In this portfolio, I invite you to witness the synergy of my academic pursuits a
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
+
+---
 
 ### 📊 My Stats 
   <div align="center" >
